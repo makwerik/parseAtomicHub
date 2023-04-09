@@ -1,0 +1,12 @@
+{
+        "collection_name": "splintrlands",
+        "contract_whitelist": "theonlykarma,sales.heroes,niftywizards,cc32dninenft",
+        "limit": "36",
+        "order": "asc",
+        "page": "1",
+        "schema_name": "packs",
+        "seller_blacklist": "dximg.wam,xpvrs.wam,5rrrc.wam,nnmnmnmnn.gm,4ctxe.wam,atomicmakret",
+        "sort": "price",
+        "state": "1",
+        "symbol": "WAX"
+    }

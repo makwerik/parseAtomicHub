@@ -57,6 +57,7 @@ class ParseAtomicHub:
 
         return float_list_usd_token
 
+
 if __name__ == '__main__':
     p = ParseAtomicHub()
     print(p.low_price())
